@@ -6,3 +6,4 @@ main.o: main.cpp
 
 clean:
 	rm *.o findPrimes
+	
